@@ -1,0 +1,7 @@
+supabase
+pymongo
+transformers
+torch
+PyMuPDF
+langgraph
+google-generativeai
